@@ -47,8 +47,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [www.saajevessolutionforthisproject.com](https://your-solution-url.com)
-- Live Site URL: [www.saajeveslivesiteforthisproject.com](https://your-live-site-url.com)
+- Solution URL: [www.saajevessolutionforthisproject.com](https://github.com/SAAJEVES/FrontendMentor-challenge-on-JS-J03)
+- Live Site URL: [www.saajeveslivesiteforthisproject.com](https://saajeves.github.io/FrontendMentor-challenge-on-JS-J03/)
 
 ## My process
 
